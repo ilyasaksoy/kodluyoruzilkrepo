@@ -17,5 +17,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için. Lütfen önce neyi 
 
 # License
 [MIT](https://choosealicense.com/)
-
-
